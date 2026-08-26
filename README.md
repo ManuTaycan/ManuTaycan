@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ManuTaycan/ManuTaycan/main/assets/hero.svg?v=7cef6c7" width="100%" alt="Sergiu-Emanuel Trif, IT System Engineer, Cloud Infrastructure, Automation and Security" />
+  <img src="https://raw.githubusercontent.com/ManuTaycan/ManuTaycan/main/assets/hero.svg?v=system-engineer" width="100%" alt="Sergiu-Emanuel Trif, IT System-Engineer, Cloud Infrastructure, Automation and Security" />
 </div>
 
 <br />
 
 <div align="center">
-  <h1>Hi, I'm Sergiu-Emanuel 👋</h1>
-  <p><strong>IT System Engineer · Microsoft Infrastructure · Automation · Security</strong></p>
+  <h1>Hi, I'm Sergiu 👋</h1>
+  <p><strong>IT System-Engineer · Microsoft Infrastructure · Automation · Security</strong></p>
   <p>
     Building reliable systems from the network layer to the cloud,<br />
     with a practical focus on maintainability, security and thoughtful automation.
@@ -17,7 +17,7 @@
 
 ## About me
 
-I'm an **IT System Engineer** based near Stuttgart, Germany, with a background as a **Fachinformatiker für Systemintegration**. I work with Microsoft infrastructure, virtualization, networking, security and automation. On GitHub, I document hands-on systems work, technical experiments and ideas I explore along the way.
+I'm an **IT System-Engineer** based near Stuttgart, Germany, with a background as an **IT specialist for systems integration (FISI)**. I work with Microsoft infrastructure, virtualization, networking, security and automation. On GitHub, I document hands-on systems work, technical experiments and ideas I explore along the way.
 
 <br />
 
