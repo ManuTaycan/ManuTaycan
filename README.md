@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Sergiu-Emanuel Trif — IT Systems Engineering, Cloud Infrastructure, Automation and Security" />
+  <img src="./assets/hero.svg" width="100%" alt="Sergiu-Emanuel Trif, IT System Engineer, Cloud Infrastructure, Automation and Security" />
 </div>
 
 <br />
 
 <div align="center">
   <h1>Hi, I'm Sergiu-Emanuel 👋</h1>
-  <p><strong>IT Systems Engineering · Microsoft Infrastructure · Automation · Security</strong></p>
+  <p><strong>IT System Engineer · Microsoft Infrastructure · Automation · Security</strong></p>
   <p>
-    Building reliable systems from the network layer to the cloud —<br />
+    Building reliable systems from the network layer to the cloud,<br />
     with a practical focus on maintainability, security and thoughtful automation.
   </p>
 </div>
@@ -17,7 +17,7 @@
 
 ## About me
 
-I'm training as a **Fachinformatiker für Systemintegration** at **Konradin Business GmbH** near Stuttgart, Germany. My work and lab projects connect Microsoft infrastructure, virtualization, networking, security and automation. On GitHub, I document hands-on systems work and the ideas I explore along the way.
+I'm an **IT System Engineer** based near Stuttgart, Germany, with a background as a **Fachinformatiker für Systemintegration**. I work with Microsoft infrastructure, virtualization, networking, security and automation. On GitHub, I document hands-on systems work, technical experiments and ideas I explore along the way.
 
 <br />
 
@@ -41,13 +41,6 @@ I'm training as a **Fachinformatiker für Systemintegration** at **Konradin Busi
 
 <br />
 
-## Lab focus
-
-> **Proxmox cluster with hybrid networking and a local AI inference workspace**  
-> Exploring clustered virtualization, LXC-based services, Linux routing and local inference with Ollama as one connected systems environment.
-
-<br />
-
 ## How I work
 
 ```text
@@ -60,7 +53,7 @@ I value clear documentation, practical problem solving, responsible system stewa
 
 <div align="center">
   <sub>Stuttgart, Germany · German & English</sub><br />
-  <sub>Thanks for stopping by — more documented projects are on the way.</sub><br /><br />
+  <sub>Thanks for stopping by. More documented projects are on the way.</sub><br /><br />
   <a href="https://github.com/ManuTaycan?tab=repositories"><strong>Explore my repositories →</strong></a>
 </div>
 
