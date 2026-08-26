@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+  <title id="title">Current technical focus</title>
+  <desc id="desc">Four connected areas: Microsoft cloud operations, hybrid infrastructure, automation and delivery, and secure operations.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1727"/>
+      <stop offset="1" stop-color="#0f2236"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4f8cff"/>
+      <stop offset="1" stop-color="#4bd4cd"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#02060c" flood-opacity=".35"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="350" rx="24" fill="#08131f"/>
+  <path d="M172 174H1028" stroke="#234866" stroke-width="2" stroke-dasharray="6 10"/>
+  <path d="M220 174H980" stroke="url(#line)" stroke-width="2" opacity=".55"/>
+
+  <g font-family="Segoe UI, Inter, Arial, sans-serif" filter="url(#shadow)">
+    <g transform="translate(54 70)">
+      <rect width="250" height="210" rx="22" fill="url(#panel)" stroke="#284966"/>
+      <circle cx="125" cy="0" r="17" fill="#0c1a2a" stroke="#5f91ff" stroke-width="3"/>
+      <path d="M117 -1l6 6 12-14" fill="none" stroke="#76a1ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="28" y="58" fill="#7fa7ff" font-size="13" font-weight="700" letter-spacing="1.8">CLOUD OPERATIONS</text>
+      <text x="28" y="92" fill="#edf5ff" font-size="22" font-weight="650">Microsoft estate</text>
+      <text x="28" y="126" fill="#91a7bd" font-size="15">Azure · Entra ID · Intune</text>
+      <text x="28" y="153" fill="#91a7bd" font-size="15">Microsoft 365 · AD</text>
+      <text x="28" y="180" fill="#91a7bd" font-size="15">Windows Server</text>
+    </g>
+
+    <g transform="translate(334 70)">
+      <rect width="250" height="210" rx="22" fill="url(#panel)" stroke="#284966"/>
+      <circle cx="125" cy="0" r="17" fill="#0c1a2a" stroke="#56d7cf" stroke-width="3"/>
+      <path d="M116 -7h18v14h-18zM120 -3h10M120 1h10" fill="none" stroke="#64dcd4" stroke-width="2"/>
+      <text x="28" y="58" fill="#64dcd4" font-size="13" font-weight="700" letter-spacing="1.8">INFRASTRUCTURE</text>
+      <text x="28" y="92" fill="#edf5ff" font-size="22" font-weight="650">Hybrid systems</text>
+      <text x="28" y="126" fill="#91a7bd" font-size="15">Proxmox VE · LXC</text>
+      <text x="28" y="153" fill="#91a7bd" font-size="15">Docker · Linux</text>
+      <text x="28" y="180" fill="#91a7bd" font-size="15">Networking &amp; routing</text>
+    </g>
+
+    <g transform="translate(614 70)">
+      <rect width="250" height="210" rx="22" fill="url(#panel)" stroke="#284966"/>
+      <circle cx="125" cy="0" r="17" fill="#0c1a2a" stroke="#5f91ff" stroke-width="3"/>
+      <path d="M115 -6l8 6-8 6M127 7h9" fill="none" stroke="#76a1ff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="28" y="58" fill="#7fa7ff" font-size="13" font-weight="700" letter-spacing="1.8">AUTOMATION</text>
+      <text x="28" y="92" fill="#edf5ff" font-size="22" font-weight="650">Repeatable delivery</text>
+      <text x="28" y="126" fill="#91a7bd" font-size="15">PowerShell · Pipelines</text>
+      <text x="28" y="153" fill="#91a7bd" font-size="15">Azure DevOps · n8n</text>
+      <text x="28" y="180" fill="#91a7bd" font-size="15">Local AI with Ollama</text>
+    </g>
+
+    <g transform="translate(894 70)">
+      <rect width="250" height="210" rx="22" fill="url(#panel)" stroke="#284966"/>
+      <circle cx="125" cy="0" r="17" fill="#0c1a2a" stroke="#56d7cf" stroke-width="3"/>
+      <path d="M1019 59l9 4v7c0 6-4 10-9 13-5-3-9-7-9-13v-7z" transform="translate(-894 -70)" fill="none" stroke="#64dcd4" stroke-width="2"/>
+      <text x="28" y="58" fill="#64dcd4" font-size="13" font-weight="700" letter-spacing="1.8">SECURE OPS</text>
+      <text x="28" y="92" fill="#edf5ff" font-size="22" font-weight="650">Resilient by default</text>
+      <text x="28" y="126" fill="#91a7bd" font-size="15">Security operations</text>
+      <text x="28" y="153" fill="#91a7bd" font-size="15">Policies · Troubleshooting</text>
+      <text x="28" y="180" fill="#91a7bd" font-size="15">Service &amp; support</text>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="348" rx="23" fill="none" stroke="#9ab8d3" stroke-opacity=".14" stroke-width="2"/>
+</svg>
+
