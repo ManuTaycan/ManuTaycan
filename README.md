@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Sergiu-Emanuel Trif, IT System Engineer, Cloud Infrastructure, Automation and Security" />
+  <img src="./assets/hero.svg?v=7cef6c7" width="100%" alt="Sergiu-Emanuel Trif, IT System Engineer, Cloud Infrastructure, Automation and Security" />
 </div>
 
 <br />
